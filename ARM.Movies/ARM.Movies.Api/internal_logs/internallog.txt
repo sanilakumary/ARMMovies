@@ -1,0 +1,92 @@
+2022-01-11 00:54:08.3037 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 00:54:08.3210 Info Loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 00:54:08.3394 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2022-01-11 00:54:08.3394 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2022-01-11 00:54:08.3394 Info Message Template Auto Format enabled
+2022-01-11 00:54:08.3720 Info Adding target FileTarget(Name=logfile)
+2022-01-11 00:54:08.3937 Info Validating config: TargetNames=logfile, ConfigItems=14, FilePath=C:\Sanila\ARM.Movies\ARM.Movies.Api\nlog.config.txt
+2022-01-11 00:58:21.3468 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 00:58:21.3682 Info Loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 00:58:21.3934 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2022-01-11 00:58:21.3996 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2022-01-11 00:58:21.3996 Info Message Template Auto Format enabled
+2022-01-11 00:58:21.4409 Info Adding target FileTarget(Name=logfile)
+2022-01-11 00:58:21.4700 Info Validating config: TargetNames=logfile, ConfigItems=14, FilePath=C:\Sanila\ARM.Movies\ARM.Movies.Api\nlog.config.txt
+2022-01-11 01:01:26.0256 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 01:01:26.0486 Info Loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 01:01:26.0900 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2022-01-11 01:01:26.0900 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2022-01-11 01:01:26.1027 Info Message Template Auto Format enabled
+2022-01-11 01:01:26.1336 Info Adding target FileTarget(Name=logfile)
+2022-01-11 01:01:26.1625 Info Validating config: TargetNames=logfile, ConfigItems=14, FilePath=C:\Sanila\ARM.Movies\ARM.Movies.Api\nlog.config.txt
+2022-01-11 01:05:33.6968 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 01:05:33.7192 Info Loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 01:05:33.7414 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2022-01-11 01:05:33.7414 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2022-01-11 01:05:33.7414 Info Message Template Auto Format enabled
+2022-01-11 01:05:33.7893 Info Adding target FileTarget(Name=logfile)
+2022-01-11 01:05:33.8240 Info Validating config: TargetNames=logfile, ConfigItems=14, FilePath=C:\Sanila\ARM.Movies\ARM.Movies.Api\nlog.config.txt
+2022-01-11 01:10:45.6395 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 01:10:45.6639 Info Loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 01:10:45.6902 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2022-01-11 01:10:45.6970 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2022-01-11 01:10:45.6970 Info Message Template Auto Format enabled
+2022-01-11 01:10:45.7309 Info Adding target FileTarget(Name=logfile)
+2022-01-11 01:10:45.7511 Info Validating config: TargetNames=logfile, ConfigItems=14, FilePath=C:\Sanila\ARM.Movies\ARM.Movies.Api\nlog.config.txt
+2022-01-11 01:37:49.8842 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 01:37:49.9163 Info Loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 01:37:49.9511 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2022-01-11 01:37:49.9599 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2022-01-11 01:37:49.9599 Info Message Template Auto Format enabled
+2022-01-11 01:37:50.0279 Info Adding target FileTarget(Name=logfile)
+2022-01-11 01:37:50.0676 Info Validating config: TargetNames=logfile, ConfigItems=14, FilePath=C:\Sanila\ARM.Movies\ARM.Movies.Api\nlog.config.txt
+2022-01-11 01:40:32.1877 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 01:40:32.1971 Info Loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 01:40:32.1971 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2022-01-11 01:40:32.2125 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2022-01-11 01:40:32.2125 Info Message Template Auto Format enabled
+2022-01-11 01:40:32.2431 Info Adding target FileTarget(Name=logfile)
+2022-01-11 01:40:32.2634 Info Validating config: TargetNames=logfile, ConfigItems=14, FilePath=C:\Sanila\ARM.Movies\ARM.Movies.Api\nlog.config.txt
+2022-01-11 01:40:33.1435 Info AppDomain Shutting down. Logger closing...
+2022-01-11 01:40:33.1579 Info Logger has been shut down.
+2022-01-11 01:40:42.3543 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 01:40:42.3543 Info Loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 01:40:42.3734 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2022-01-11 01:40:42.3734 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2022-01-11 01:40:42.3839 Info Message Template Auto Format enabled
+2022-01-11 01:40:42.4100 Info Adding target FileTarget(Name=logfile)
+2022-01-11 01:40:42.4279 Info Validating config: TargetNames=logfile, ConfigItems=14, FilePath=C:\Sanila\ARM.Movies\ARM.Movies.Api\nlog.config.txt
+2022-01-11 01:40:43.3198 Info AppDomain Shutting down. Logger closing...
+2022-01-11 01:40:43.3198 Info Logger has been shut down.
+2022-01-11 01:40:52.9494 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 01:40:52.9494 Info Loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 01:40:52.9664 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2022-01-11 01:40:52.9664 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2022-01-11 01:40:52.9773 Info Message Template Auto Format enabled
+2022-01-11 01:40:53.0048 Info Adding target FileTarget(Name=logfile)
+2022-01-11 01:40:53.0223 Info Validating config: TargetNames=logfile, ConfigItems=14, FilePath=C:\Sanila\ARM.Movies\ARM.Movies.Api\nlog.config.txt
+2022-01-11 01:40:54.7948 Info AppDomain Shutting down. Logger closing...
+2022-01-11 01:40:54.8075 Info Logger has been shut down.
+2022-01-11 01:42:31.2772 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 01:42:31.2982 Info Loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 01:42:31.3191 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2022-01-11 01:42:31.3252 Info Auto loading assembly file: C:\Sanila\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2022-01-11 01:42:31.3252 Info Message Template Auto Format enabled
+2022-01-11 01:42:31.3601 Info Adding target FileTarget(Name=logfile)
+2022-01-11 01:42:31.3819 Info Validating config: TargetNames=logfile, ConfigItems=14, FilePath=C:\Sanila\ARM.Movies\ARM.Movies.Api\nlog.config.txt
+2022-01-11 08:48:33.9678 Info Auto loading assembly file: C:\test\ARMProject\ARM.Movies\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 08:48:33.9678 Info Loading assembly file: C:\test\ARMProject\ARM.Movies\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 08:48:34.0114 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2022-01-11 08:48:34.0114 Info Auto loading assembly file: C:\test\ARMProject\ARM.Movies\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2022-01-11 08:48:34.0114 Info Message Template Auto Format enabled
+2022-01-11 08:48:34.0330 Info Adding target FileTarget(Name=logfile)
+2022-01-11 08:48:34.0474 Info Validating config: TargetNames=logfile, ConfigItems=14, FilePath=C:\test\ARMProject\ARM.Movies\ARM.Movies\ARM.Movies.Api\nlog.config.txt
+2022-01-11 08:48:35.8715 Info AppDomain Shutting down. Logger closing...
+2022-01-11 08:48:35.8715 Info Logger has been shut down.
+2022-01-11 08:49:15.8062 Info Auto loading assembly file: C:\test\ARMProject\ARM.Movies\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 08:49:15.8062 Info Loading assembly file: C:\test\ARMProject\ARM.Movies\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2022-01-11 08:49:15.8399 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2022-01-11 08:49:15.8399 Info Auto loading assembly file: C:\test\ARMProject\ARM.Movies\ARM.Movies\ARM.Movies.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2022-01-11 08:49:15.8399 Info Message Template Auto Format enabled
+2022-01-11 08:49:15.8729 Info Adding target FileTarget(Name=logfile)
+2022-01-11 08:49:15.8912 Info Validating config: TargetNames=logfile, ConfigItems=14, FilePath=C:\test\ARMProject\ARM.Movies\ARM.Movies\ARM.Movies.Api\nlog.config.txt
